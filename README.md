@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@dakim">
 <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dakim"/>
   </a>
+<a href="mailto:daeungkim93@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daeungkim93@gmail.com"/></a>
+  
