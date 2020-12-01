@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)
+![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)
 
 <!--
 **daeungkim/daeungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/>
   </p>
   
-|![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)|:-:|:-:|
+![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)
