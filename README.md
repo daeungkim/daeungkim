@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 |![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)
-|[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)
+|[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)|
 
 <!--
 **daeungkim/daeungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
