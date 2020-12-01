@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-|[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)
-|![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)|
+|[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)|![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)|
 |:-:|:-:|
+<!--
+|![github stats](https://github-readme-stats.vercel.app/api?username=tetramad&count_private=true)|[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tetramad)](https://solved.ac/tetramad)|
+|:-:|:-:|
+-->
 
 <!--
 **daeungkim/daeungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
