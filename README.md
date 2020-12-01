@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   </p>
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)
+|![github stats](https://github-readme-stats.vercel.app/api?username=tetramad&count_private=true)|[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tetramad)](https://solved.ac/tetramad)|
+|:-:|:-:|
