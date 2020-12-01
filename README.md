@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![dakim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?privacyEmail=true)](https://github.com/dakim/badge42)
+[![dakim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/dakim/badge42)
 
 <!--
 **daeungkim/daeungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
