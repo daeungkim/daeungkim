@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-|[![daeungkim's 42 stats](https://badge42.herokuapp.com/api/stats/dakim?privacyEmail=true)](https://github.com/daeungkim/badge42)|![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)|
+|![github stats](https://github-readme-stats.vercel.app/api?username=daeungkim&count_private=true)|
 |:-:|:-:|
 
 <!--
